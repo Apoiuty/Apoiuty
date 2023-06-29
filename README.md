@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Apoiuty**
-- 👀 I’m interested in **AI for CFD, Graph Neural Network, mesh genearation with mechine learning method.**
+- 👀 I’m interested in **AI for CFD, Graph Neural Network, Mesh Genearation with ML.**
 - 🌱 I’m currently learning **convex optimization** and **finite volume method**.
 - 📫 Mail: **apoiuty@qq.com**.
 
